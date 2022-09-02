@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer>
+   <id>123</id>
+   <phone-number>555-1111</phone-number>
+   <phone-number>555-2222</phone-number>
+   <name>Jane Doe</name>
+</customer>
